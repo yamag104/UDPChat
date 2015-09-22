@@ -1,17 +1,17 @@
 /**
-* UDP Client Program
-* Connects to a UDP Server
-* Receives a line of input from the keyboard and sends it to the server
-* Receives a response from the server and displays it.
+*	UDP Client Program
+*	Connects to a UDP Server
+*	Receives a line of input from the keyboard and sends it to the server
+*	Receives a response from the server and displays it.
 *
-* @author: Yoko Yamaguchi
-@ version: 2.1
+*	@author: Nicholas Vega
+@	version: 2.1
 */
 
 import java.io.*;
 import java.net.*;
 
-class Blue {
+class Red {
     
     public static void main(String args[]) throws Exception
     {
